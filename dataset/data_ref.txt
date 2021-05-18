@@ -1,0 +1,10 @@
+Data Source:
+
+Chinese MNIST:
+https://www.kaggle.com/gpreda/chinese-mnist
+
+SVHN dataset:
+https://www.kaggle.com/quanbk/svhndataset
+
+Tiny ImageNet:
+https://www.kaggle.com/akash2sharma/tiny-imagenet
